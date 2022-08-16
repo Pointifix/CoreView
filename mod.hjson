@@ -1,0 +1,10 @@
+{
+	"name": "core-view",
+	"displayName": "Core View",
+	"author": "Pointifix",
+	"description": "Sets your camera position to your best core",
+	"repo": "",
+	"hidden": true,
+	"version": "1.0",
+	"minGameVersion": 120,
+}
